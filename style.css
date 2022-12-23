@@ -27,6 +27,14 @@ body {
     justify-content: end;
 }
 
+button:hover {
+    background-color: #ddd;
+}
+
+button:active {
+    background-color: #ccc;
+}
+
 button {
     background-color: #eee;
     padding: 20px;
